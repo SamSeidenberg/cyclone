@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SamSeidenberg/samseidenberg.github.io/cyclone/precache-manifest.6e16f73f29ec7b043a8e9fd659f52ba8.js"
+  "/SamSeidenberg/SamSeidenberg.github.io/cyclone/precache-manifest.ec0ca500640a36e72999a03f2cbbeac0.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/SamSeidenberg/samseidenberg.github.io/cyclone/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/SamSeidenberg/SamSeidenberg.github.io/cyclone/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
