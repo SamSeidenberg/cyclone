@@ -1,23 +1,19 @@
 {
   "files": {
-    "main.css": "/SamSeidenberg/SamSeidenberg.github.io/cyclone/static/css/main.d1b05096.chunk.css",
-    "main.js": "/SamSeidenberg/SamSeidenberg.github.io/cyclone/static/js/main.5cb22696.chunk.js",
-    "main.js.map": "/SamSeidenberg/SamSeidenberg.github.io/cyclone/static/js/main.5cb22696.chunk.js.map",
+    "main.js": "/SamSeidenberg/SamSeidenberg.github.io/cyclone/static/js/main.6f3dc93d.chunk.js",
+    "main.js.map": "/SamSeidenberg/SamSeidenberg.github.io/cyclone/static/js/main.6f3dc93d.chunk.js.map",
     "runtime-main.js": "/SamSeidenberg/SamSeidenberg.github.io/cyclone/static/js/runtime-main.d56594cd.js",
     "runtime-main.js.map": "/SamSeidenberg/SamSeidenberg.github.io/cyclone/static/js/runtime-main.d56594cd.js.map",
-    "static/js/2.98a39b5a.chunk.js": "/SamSeidenberg/SamSeidenberg.github.io/cyclone/static/js/2.98a39b5a.chunk.js",
-    "static/js/2.98a39b5a.chunk.js.map": "/SamSeidenberg/SamSeidenberg.github.io/cyclone/static/js/2.98a39b5a.chunk.js.map",
+    "static/js/2.a269c88d.chunk.js": "/SamSeidenberg/SamSeidenberg.github.io/cyclone/static/js/2.a269c88d.chunk.js",
+    "static/js/2.a269c88d.chunk.js.map": "/SamSeidenberg/SamSeidenberg.github.io/cyclone/static/js/2.a269c88d.chunk.js.map",
     "index.html": "/SamSeidenberg/SamSeidenberg.github.io/cyclone/index.html",
-    "precache-manifest.4ab893784fd5ca931f19ae4923c661d5.js": "/SamSeidenberg/SamSeidenberg.github.io/cyclone/precache-manifest.4ab893784fd5ca931f19ae4923c661d5.js",
+    "precache-manifest.ec0ca500640a36e72999a03f2cbbeac0.js": "/SamSeidenberg/SamSeidenberg.github.io/cyclone/precache-manifest.ec0ca500640a36e72999a03f2cbbeac0.js",
     "service-worker.js": "/SamSeidenberg/SamSeidenberg.github.io/cyclone/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/SamSeidenberg/SamSeidenberg.github.io/cyclone/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.98a39b5a.chunk.js.LICENSE": "/SamSeidenberg/SamSeidenberg.github.io/cyclone/static/js/2.98a39b5a.chunk.js.LICENSE",
-    "static/media/logo.svg": "/SamSeidenberg/SamSeidenberg.github.io/cyclone/static/media/logo.5d5d9eef.svg"
+    "static/js/2.a269c88d.chunk.js.LICENSE": "/SamSeidenberg/SamSeidenberg.github.io/cyclone/static/js/2.a269c88d.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.d56594cd.js",
-    "static/js/2.98a39b5a.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.5cb22696.chunk.js"
+    "static/js/2.a269c88d.chunk.js",
+    "static/js/main.6f3dc93d.chunk.js"
   ]
 }

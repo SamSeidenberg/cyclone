@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["render","document","getElementById"],"mappings":"mIAAA,kCAGAA,iBACI,gDACAC,SAASC,eAAe,W","file":"static/js/main.6f3dc93d.chunk.js","sourcesContent":["import React from 'react';\nimport { render } from 'react-dom';\n\nrender(\n    <div>Hello, it's me.</div>,\n    document.getElementById('root')\n)"],"sourceRoot":""}

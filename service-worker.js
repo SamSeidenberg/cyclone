@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SamSeidenberg/SamSeidenberg.github.io/cyclone/precache-manifest.4ab893784fd5ca931f19ae4923c661d5.js"
+  "/SamSeidenberg/SamSeidenberg.github.io/cyclone/precache-manifest.ec0ca500640a36e72999a03f2cbbeac0.js"
 );
 
 self.addEventListener('message', (event) => {
